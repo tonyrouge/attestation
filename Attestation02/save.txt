@@ -1,0 +1,3 @@
+player;Герой;14;5
+inventory;
+room;Дендрарий
